@@ -1,0 +1,14 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\000032}}
+body { background-color: #2c373b; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\000034}}
+body #wrapper { width: 450px; margin: 0 auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\000037}}
+body .login_form { width: 450px; margin-top: 50px; min-height: 302px; float: left; background: #f4f4f4; -moz-border-radius: 6px; -webkit-border-radius: 6px; -o-border-radius: 6px; -ms-border-radius: 6px; -khtml-border-radius: 6px; border-radius: 6px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\0000314}}
+body .login_form ul { list-style: none; float: left; margin: 40px 0px 0px 25px; padding: 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\0000319}}
+body .login_form ul li { float: left; margin-bottom: 15px; clear: both; width: 400px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\0000324}}
+body .login_form ul li input[type=text], body .login_form ul li input[type=password] { width: 400px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/login\.sass}line{font-family:\0000328}}
+body .login_form ul li.right input { float: right; }

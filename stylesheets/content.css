@@ -1,0 +1,78 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\000032}}
+table { float: left; width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\000035}}
+table thead { background: #2e3a3f; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\000037}}
+table thead td { font-size: 1.2em; font-weight: bold; color: white; padding: 12px; margin: 0px; background: url(../images/table_background.png) repeat-x; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000314}}
+table thead td.actions { width: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000317}}
+table tr:hover { background: #f4f4f4; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000319}}
+table tr td { border-bottom: 1px solid #dfdddc; padding: 20px; padding-left: 12px; padding-right: 12px; font-size: 1.2em; text-align: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000326}}
+table tr td.actions { text-align: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000329}}
+ul.pagination { float: right; margin-top: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000332}}
+ul.pagination li { float: left; padding-left: 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000335}}
+ul.pagination li a { color: #5b6f7b; font-size: 1.4em; text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000339}}
+ul.pagination li a:hover { color: #364347; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000341}}
+ul.pagination li a.number { -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; border: 1px solid #dfdddc; padding: 4px; padding-left: 6px; padding-right: 6px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000347}}
+ul.pagination li a.number:hover, ul.pagination li a.number.current { background: #364347; border: 1px solid #2b3639; color: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000358}}
+.edit { float: left; width: 16px; height: 16px; padding-right: 16px; background: url(../images/icons.png) no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000360}}
+.delete { float: left; width: 16px; height: 16px; padding-right: 16px; background: url(../images/icons.png) no-repeat; background-position: -32px 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000376}}
+fieldset.form_block { float: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000378}}
+fieldset.form_block ul { clear: both; float: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000381}}
+fieldset.form_block ul li { float: left; clear: both; padding-top: 10px; padding-bottom: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000386}}
+fieldset.form_block ul li .error { clear: both; float: left; font-size: 1.2em; padding: 2px; margin-top: 4px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000392}}
+fieldset.form_block ul li label { float: left; font-size: 1.4em; color: #464646; padding: 5px 0px 9px 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\0000397}}
+fieldset.form_block ul li .small_text { clear: both; float: left; height: 35px; border: 1px solid #dfdddc; padding-left: 4px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; width: 200px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003100}}
+fieldset.form_block ul li .small_text:focus { border: 1px solid #b3dd91; -moz-box-shadow: #ddf0ce -1px 1px 1px 0; -webkit-box-shadow: #ddf0ce -1px 1px 1px 0; -o-box-shadow: #ddf0ce -1px 1px 1px 0; box-shadow: #ddf0ce -1px 1px 1px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003102}}
+fieldset.form_block ul li .medium_text { clear: both; float: left; height: 35px; border: 1px solid #dfdddc; padding-left: 4px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; width: 350px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003105}}
+fieldset.form_block ul li .medium_text:focus { border: 1px solid #b3dd91; -moz-box-shadow: #ddf0ce -1px 1px 1px 0; -webkit-box-shadow: #ddf0ce -1px 1px 1px 0; -o-box-shadow: #ddf0ce -1px 1px 1px 0; box-shadow: #ddf0ce -1px 1px 1px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003107}}
+fieldset.form_block ul li .large_text { clear: both; float: left; height: 35px; border: 1px solid #dfdddc; padding-left: 4px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; width: 600px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003110}}
+fieldset.form_block ul li .large_text:focus { border: 1px solid #b3dd91; -moz-box-shadow: #ddf0ce -1px 1px 1px 0; -webkit-box-shadow: #ddf0ce -1px 1px 1px 0; -o-box-shadow: #ddf0ce -1px 1px 1px 0; box-shadow: #ddf0ce -1px 1px 1px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003112}}
+fieldset.form_block ul li textarea { float: left; clear: both; width: 650px; height: 450px; border: 1px solid #dfdddc; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003119}}
+fieldset.form_block ul li textarea:focus { border: 1px solid #b3dd91; -moz-box-shadow: #ddf0ce -1px 1px 1px 0; -webkit-box-shadow: #ddf0ce -1px 1px 1px 0; -o-box-shadow: #ddf0ce -1px 1px 1px 0; box-shadow: #ddf0ce -1px 1px 1px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003121}}
+fieldset.form_block ul li .submit_button { background: url(../images/submit_background.png) repeat-x; height: 39px; border: 1px solid #d2d2d2; color: #2a363b; padding-left: 20px; padding-right: 20px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; outline: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003130}}
+fieldset.form_block ul li .submit_button:hover { background: url(../images/submit_background_hover.png) repeat-x; cursor: pointer; cursor: hand; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003135}}
+.notification_box { float: left; width: 100%; margin-top: 10px; margin-bottom: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003140}}
+.notification_box p { padding: 15px; font-size: 1.4em; color: #464646; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003144}}
+.message { border: 1px solid #f7eaae; background: #fdfaeb; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003147}}
+.success { background: #eaf8e0; border: 1px solid #c5ebac; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/WEB\/admin-skin\/src\/content\.sass}line{font-family:\00003150}}
+.error { background: #faeddf; border: 1px solid #f4d8b9; }
