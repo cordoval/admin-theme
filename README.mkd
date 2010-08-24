@@ -1,0 +1,9 @@
+#Admin Theme: README
+
+A simple admin theme I use for my projects
+
+Tested in Firefox, Chrome and IE 8
+
+If you want to see a demo go to [admintheme.martinrusev.net](http://admintheme.martinrusev.net/ "admintheme.martinrusev.net")
+
+
